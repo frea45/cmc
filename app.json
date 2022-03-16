@@ -34,17 +34,17 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "3335796",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "138b992a0e672e8346d8439c3f42ea78",
       "required": true
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "715779594",
+      "value": "763990585",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
@@ -57,7 +57,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username. Without `@` before Username!",
-      "value": "",
+      "value": "ir_compressorbot",
       "required": true
     },
     "LOG_CHANNEL": {
@@ -67,7 +67,7 @@
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
-      "value": "",
+      "value": "SeriesPlus1",
       "required": false
     }
   },
