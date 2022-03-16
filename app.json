@@ -24,12 +24,12 @@
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/linux_repo",
-      "value": "",
+      "value": "mongodb+srv://abirhasan2005:abirhasan@cluster0.oiscb.mongodb.net/cluster0?retryWrites=true&w=majority",
       "required": true
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this from @BotFather",
-      "value": "",
+      "value": "1806450812:AAHUIxECOrPYgf2JP0F1V7BRUquRMRTpfOE",
       "required": true
     },
     "APP_ID": {
@@ -57,12 +57,12 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username. Without `@` before Username!",
-      "value": "ir_compressorbot",
+      "value": "ir_CompressorBot",
       "required": true
     },
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
-      "value": "",
+      "value": "-1001655102940",
       "required": true
     },
     "UPDATES_CHANNEL": {
