@@ -29,7 +29,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this from @BotFather",
-      "value": "1806450812:AAHUIxECOrPYgf2JP0F1V7BRUquRMRTpfOE",
+      "value": "1806450812:AAE0Wh098LZajVHiv4xEW18zPJfgt0dAJNw",
       "required": true
     },
     "APP_ID": {
