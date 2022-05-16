@@ -19,7 +19,7 @@
     },
     "SESSION_NAME": {
       "description": "Keep this default",
-      "value": "AHCompressBot",
+      "value": "I",
       "required": true
     },
     "DATABASE_URL": {
