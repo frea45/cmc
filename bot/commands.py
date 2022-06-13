@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# FarshidBand
 
 from bot.get_cfg import get_config
 
