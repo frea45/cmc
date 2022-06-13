@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# FarshidBand
 
 import traceback
 import datetime
