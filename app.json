@@ -19,7 +19,7 @@
     },
     "SESSION_NAME": {
       "description": "Keep this default",
-      "value": "I",
+      "value": "",
       "required": true
     },
     "DATABASE_URL": {
@@ -29,7 +29,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this from @BotFather",
-      "value": "1806450812:AAE0Wh098LZajVHiv4xEW18zPJfgt0dAJNw",
+      "value": "1806450812:AAESB6K0vvJyF_8Q09lyBoS9F7aR6QRLZUU",
       "required": true
     },
     "APP_ID": {
@@ -67,7 +67,7 @@
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
-      "value": "SeriesPlus1",
+      "value": "irbotz",
       "required": false
     }
   },
