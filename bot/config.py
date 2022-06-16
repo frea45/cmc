@@ -37,7 +37,7 @@ class Config(object):
     # maximum message length in Telegram
     MAX_MESSAGE_LENGTH = 4096
     # add config vars for the display progress
-    FINISHED_PROGRESS_STR = get_config("FINISHED_PROGRESS_STR", "🟢")
+    FINISHED_PROGRESS_STR = get_config("FINISHED_PROGRESS_STR", "▓")
     UN_FINISHED_PROGRESS_STR = get_config("UN_FINISHED_PROGRESS_STR", "⚪️")
     LOG_FILE_ZZGEVC = get_config("LOG_FILE_ZZGEVC", "Log.txt")
       # because, https://t.me/c/1494623325/5603
