@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/FarshidBand",
   "website": "https://t.me/irbotz",
-  "repository": "https://github.com/fpband/cm-1000i",
+  "repository": "https://github.com/fpband/2022-cmc",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -62,7 +62,7 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
-      "value": "-1001655102940",
+      "value": "-1001482606933",
       "required": true
     },
     "UPDATES_CHANNEL": {
